@@ -1,0 +1,7 @@
+the step for yarn
+install yarn
+install npx
+npm install -g yarn
+
+yarn install
+yarn dev
